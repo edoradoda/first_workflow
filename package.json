@@ -1,0 +1,14 @@
+{
+  "name": "first_workflow",
+  "version": "1.0.0",
+  "description": "test -workflow github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "edoradoda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
